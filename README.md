@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Software Developer in Java Related Technologies
+🔭 graduated of Computer Science of Engineering 
+⚡ Fun fact: I love to code, write poetry or single-page articles, watch movies, and go for early morning runs
+😄 Pronouns: he/him
+💬 Ask me about :I'm a Java developer based in Hyderabad, passionate about tackling challenging roles and advancing my career.
